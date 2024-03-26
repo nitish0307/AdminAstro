@@ -32,7 +32,7 @@ html{
     position: sticky;
     top: 0;
     cursor: pointer;
-    background-color: #0B60B0;
+    background-color: #00246B;
 }
 .nav-list{
     width: 50%;
@@ -51,7 +51,7 @@ html{
 
 .nav-list li a{
     text-decoration: none;
-    color: yellow;
+    color: #CADCFC;
     /* font-size: 17px; */
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     
@@ -89,10 +89,16 @@ html{
     border: 2px solid white;
     border-radius: 18px;
     background: none;
-    color: yellow;
+    color: #CADCFC;
     cursor: pointer;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
+}
+
+.toggle-icon {
+    width: 30px;
+    cursor: pointer;
+    padding-left: 35px;
 }
 
 h1{
@@ -103,7 +109,7 @@ h1{
 body {
     /* background: rgba(0, 0, 0, 0.7) url(images/bgimg.jpg); */
     /* background-blend-mode: darken; */
-    background-color: #40A2D8;
+    background-color: #CADCFC;
 }
 
 .container {
