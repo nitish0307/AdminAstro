@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile</title>
+  <link rel="stylesheet" href="">
+</head>
+<body>
+  <div class="profile-info">
+    <h2>Profile Information</h2>
+    <div id="profile-content"></div>
+  </div>
+
+  <script src="script.js"></script>
+  <script>
+    
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const profileName = urlParams.get('profile');
+
+    
+    if (profileName === 'profile1') {
+      document.getElementById('profile-content').innerHTML = `
+        <img src="images/profile1.jpg" alt="Profile Picture">
+        <h3>Profile 1</h3>
+        <p>Profile 1 information goes here.</p>
+      `;
+    } else if (profileName === 'profile2') {
+      document.getElementById('profile-content').innerHTML = `
+        <img src = "b1.jpg" alt = "Profile-Picture">
+        <h3>Profile 2</h3>
+        <p>Profile 2 information goes here.</p>
+      `;
+    }
+    // Add more conditions for other profiles if needed
+  </script>
+</body>
+</html>
