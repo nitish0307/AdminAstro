@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="126" viewBox="0 0 127 126">
+  <!-- Background Circle -->
+  <circle cx="63.5" cy="63" r="62" fill="url(#gradient)" />
+
+  <!-- Tooth Icon -->
+  <path d="M58,45 Q60,30 63,45 Q66,30 68,45 Q69,50 68,55 Q67,60 64,62 Q63,63 63,65 Q63,67 60,68 Q58,68 57,66 Q56,64 58,62 Q59,60 58,58 Q58,56 59,55 Q60,54 60,52 Q61,50 60,49 Q59,47 58,45" fill="#FFFFFF" />
+  
+  <!-- Tooth Root -->
+  <path d="M58,62 Q59,70 64,70 Q69,70 70,62 Q69,60 64,60 Q59,60 58,62" fill="#FFFFFF" />
+
+  <defs>
+    <linearGradient id="gradient" x1="63.5" y1="0" x2="63.5" y2="125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AFC1DC" />
+      <stop offset="1" stop-color="#E2E5ED" />
+    </linearGradient>
+  </defs>
+
+  <!-- Text Label -->
+  <!-- <text x="20" y="115" font-family="Arial" font-size="14" fill="#333">Dental Sciences</text> -->
+</svg>

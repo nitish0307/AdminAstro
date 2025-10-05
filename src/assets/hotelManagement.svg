@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="126" viewBox="0 0 127 126">
+  <!-- Background Circle -->
+  <circle cx="63.5668" cy="62.8325" r="62.8325" fill="url(#paint0_linear_4741_2341)" />
+  
+  <!-- Hotel Building Icon -->
+  <rect x="35" y="35" width="55" height="60" fill="#F7DECE"/>
+  <rect x="40" y="40" width="10" height="10" fill="#577CFF"/>
+  <rect x="55" y="40" width="10" height="10" fill="#577CFF"/>
+  <rect x="70" y="40" width="10" height="10" fill="#577CFF"/>
+  <rect x="40" y="55" width="10" height="10" fill="#577CFF"/>
+  <rect x="55" y="55" width="10" height="10" fill="#577CFF"/>
+  <rect x="70" y="55" width="10" height="10" fill="#577CFF"/>
+  <rect x="40" y="70" width="10" height="10" fill="#577CFF"/>
+  <rect x="55" y="70" width="10" height="10" fill="#577CFF"/>
+  <rect x="70" y="70" width="10" height="10" fill="#577CFF"/>
+  
+  <!-- Check-in Counter -->
+  <rect x="45" y="85" width="40" height="10" fill="#2D3A45"/>
+  <circle cx="63.5668" cy="90" r="3" fill="#F4D03F"/>
+
+  <!-- Reception Bell -->
+  <circle cx="63.5668" cy="55" r="5" fill="#F4D03F"/>
+  <rect x="60" y="53" width="7" height="2" fill="#2D3A45"/>
+  <circle cx="63.5668" cy="57" r="2" fill="#2D3A45"/>
+  
+  <!-- Room Key -->
+  <rect x="80" y="80" width="10" height="2" fill="#2D3A45"/>
+  <circle cx="85" cy="82" r="3" fill="#F4D03F"/>
+  
+  <!-- Text Label -->
+  <!-- <text x="25" y="105" font-family="Arial" font-size="10" fill="#2D3A45">Hotel Management</text> -->
+  
+  <!-- Gradient for Background Circle -->
+  <defs>
+    <linearGradient id="paint0_linear_4741_2341" x1="63.5668" y1="0" x2="63.5668" y2="125.665" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AFC1DC"/>
+      <stop offset="1" stop-color="#E2E5ED"/>
+    </linearGradient>
+  </defs>
+</svg>

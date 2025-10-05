@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="126" viewBox="0 0 127 126">
+  <!-- Background Circle -->
+  <circle cx="63.5" cy="63" r="62" fill="url(#gradient)" />
+
+  <!-- House Body -->
+  <rect x="38" y="60" width="50" height="40" fill="#4A90E2" />
+
+  <!-- Roof -->
+  <polygon points="38,60 88,60 63,30" fill="#577CFF" />
+
+  <!-- Door -->
+  <rect x="58" y="80" width="12" height="20" fill="#F7DECE" />
+
+  <!-- Windows -->
+  <rect x="45" y="65" width="10" height="10" fill="#F7DECE" />
+  <rect x="72" y="65" width="10" height="10" fill="#F7DECE" />
+
+
+  <defs>
+    <linearGradient id="gradient" x1="63.5" y1="0" x2="63.5" y2="125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AFC1DC" />
+      <stop offset="1" stop-color="#E2E5ED" />
+    </linearGradient>
+  </defs>
+
+  <!-- Text Label -->
+  <!-- <text x="20" y="115" font-family="Arial" font-size="14" fill="#333">Simple House</text> -->
+</svg>

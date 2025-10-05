@@ -1,0 +1,19 @@
+<svg width="217" height="46" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 217 46">
+  <!-- Background rectangle -->
+  <!-- <rect width="217" height="46" fill="#f4f4f4" /> -->
+  
+  <!-- Text for Adminastro with Inter font -->
+  <text x="10" y="30" font-family="'Inter', sans-serif" font-weight="bold" font-size="24" fill="#2A3D8F">ADMINASTRO</text>
+  
+  <!-- Design elements for unique style -->
+  <!-- Circular design for a modern look -->
+  <circle cx="190" cy="23" r="6" fill="#2A3D8F" />
+  <circle cx="198" cy="23" r="3" fill="#FFFFFF" />
+  
+  <!-- Abstract educational elements -->
+  <path d="M 180 16 Q 185 10, 190 16 T 200 16" fill="none" stroke="#2A3D8F" stroke-width="2"/>
+  <line x1="190" y1="18" x2="190" y2="28" stroke="#2A3D8F" stroke-width="2"/>
+  
+  <!-- Optional tagline -->
+  <!-- <text x="45" y="30" font-family="'Inter', sans-serif" font-weight="normal" font-size="14" fill="#2A3D8F">Connecting Education</text> -->
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="126" viewBox="0 0 127 126">
+  <!-- Background Circle -->
+  <circle cx="63.5" cy="63" r="62" fill="url(#gradient)" />
+
+  <!-- Film Reel Icon in the center -->
+  <circle cx="63.5" cy="63" r="20" fill="none" stroke="#333" stroke-width="3" />
+  
+  <!-- Holes on the film reel -->
+  <circle cx="53.5" cy="53" r="3" fill="#333" />
+  <circle cx="73.5" cy="53" r="3" fill="#333" />
+  <circle cx="53.5" cy="73" r="3" fill="#333" />
+  <circle cx="73.5" cy="73" r="3" fill="#333" />
+  <circle cx="63.5" cy="63" r="5" fill="#333" />
+
+  <!-- Inner Circle (Spindle) -->
+  <circle cx="63.5" cy="63" r="3" fill="#333" />
+
+  <defs>
+    <linearGradient id="gradient" x1="63.5" y1="0" x2="63.5" y2="125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AFC1DC" />
+      <stop offset="1" stop-color="#E2E5ED" />
+    </linearGradient>
+  </defs>
+</svg>

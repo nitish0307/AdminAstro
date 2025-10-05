@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="126" viewBox="0 0 127 126">
+  <!-- Background Circle -->
+  <circle cx="63.5668" cy="62.8325" r="62.8325" fill="url(#paint0_linear_4741_2341)" />
+  
+  <!-- Cloud Computing Icon -->
+  <!-- Cloud -->
+  <circle cx="30" cy="55" r="16" fill="#577CFF"/>
+  <circle cx="50" cy="50" r="20" fill="#577CFF"/>
+  <circle cx="70" cy="60" r="16" fill="#577CFF"/>
+  <circle cx="60" cy="65" r="20" fill="#577CFF"/>
+  
+  <!-- Cloud Base -->
+  <ellipse cx="50" cy="75" rx="35" ry="15" fill="#577CFF"/>
+  
+  <!-- Server Icon -->
+  <rect x="90" y="45" width="20" height="35" fill="#FF9494"/>
+  <line x1="90" y1="55" x2="120" y2="55" stroke="white" stroke-width="2"/>
+  <line x1="90" y1="65" x2="120" y2="65" stroke="white" stroke-width="2"/>
+  <line x1="90" y1="75" x2="120" y2="75" stroke="white" stroke-width="2"/>
+  
+  <!-- Data Flow Arrow -->
+  <path d="M120 70 Q130 55 140 70" stroke="#FF9494" stroke-width="2" fill="transparent"/>
+  <polygon points="145,65 140,70 145,75" fill="#FF9494"/>
+  
+  <!-- Text Label -->
+  <text x="25" y="105" font-family="Arial" font-size="10" fill="#577CFF">Cloud Computing</text>
+
+  <!-- Gradient for Background Circle -->
+  <defs>
+    <linearGradient id="paint0_linear_4741_2341" x1="63.5668" y1="0" x2="63.5668" y2="125.665" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AFC1DC"/>
+      <stop offset="1" stop-color="#E2E5ED"/>
+    </linearGradient>
+  </defs>
+</svg>
