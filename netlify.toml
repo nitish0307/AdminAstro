@@ -1,0 +1,6 @@
+[build]
+  publish = "dist"           # Vite's build output
+  command = "npm run build"  # Your build script
+
+[build.environment]
+  NODE_VERSION = "20"        # Use Node 20 for compatibility
